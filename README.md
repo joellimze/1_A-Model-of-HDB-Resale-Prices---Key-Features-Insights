@@ -108,7 +108,7 @@
   
 <b>(b) Model's Predictive Ability</b>
 
-* Model predicts resale prices well, with no discernible difference in predictive performance across 'unregularised', 'ridge' and 'lasso' approaches
+* Model predicts resale prices well, with no discernible difference in model generalisability and predictive performance across 'unregularised', 'ridge' and 'lasso' approaches
   * Mean Absolute Error (MAE) of ~$36,000
   * Mean Absolute Percentage Error of ~8.6%
 
